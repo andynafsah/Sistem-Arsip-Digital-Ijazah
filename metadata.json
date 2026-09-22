@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Arsip Digital Ijazah",
+  "description": "Sistem Arsip Digital Ijazah Peserta Didik Ma'had Darul Hadits Lima Puluh Kota dengan integrasi Google Forms, Google Sheets, dan Google Drive",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
